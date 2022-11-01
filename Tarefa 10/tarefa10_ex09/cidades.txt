@@ -1,0 +1,6 @@
+Cidade 1
+100000
+Cidade 2
+200000
+Cidade 3
+50000
